@@ -1,2 +1,6 @@
-# it-does-works
-🎳Code examples to show that some obscure knowledge in books(documents) does has an effect, with clear outputs before and after.
+# 🎳 it-does-works
+Just code examples to show that some obscure knowledge in books(documents) does has an effect, with clear outputs before and after.
+
+| Topic | Show |
+| ----- | ---- |
+| Python really has a GIL | [Java code](https://github.com/guerbai/it-does-works/blob/master/src/com/guerbai/concurrency/ParallelProcessExample.java) \| [Python code](https://github.com/guerbai/it-does-works/blob/master/src/com/guerbai/concurrency/parallel_process_example.py) |
