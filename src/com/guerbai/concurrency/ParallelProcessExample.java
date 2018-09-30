@@ -59,10 +59,10 @@ public class ParallelProcessExample {
         int threadNum2 = 2;
         int threadNum4 = 4;
         int threadNum8 = 8;
-        System.out.println("SumTask with threadNum1 cost time: " + (float) (measureTimeCost(threadNum1)) / 1000 + 's in Java version.');
-        System.out.println("SumTask with threadNum2 cost time: " + (float) (measureTimeCost(threadNum2)) / 1000 + 's in Java version.');
-        System.out.println("SumTask with threadNum4 cost time: " + (float) (measureTimeCost(threadNum4)) / 1000 + 's in Java version.');
-        System.out.println("SumTask with threadNum8 cost time: " + (float) (measureTimeCost(threadNum8)) / 1000 + 's in Java version.');
+        System.out.println("SumTask with threadNum1 cost time: " + (float) (measureTimeCost(threadNum1)) / 1000 + "s in Java version.");
+        System.out.println("SumTask with threadNum2 cost time: " + (float) (measureTimeCost(threadNum2)) / 1000 + "s in Java version.");
+        System.out.println("SumTask with threadNum4 cost time: " + (float) (measureTimeCost(threadNum4)) / 1000 + "s in Java version.");
+        System.out.println("SumTask with threadNum8 cost time: " + (float) (measureTimeCost(threadNum8)) / 1000 + "s in Java version.");
     }
 
 }
