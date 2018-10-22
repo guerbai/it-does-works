@@ -4,3 +4,4 @@ Just code examples to show that some obscure knowledge in books(documents) does 
 | Topic | Show |
 | ----- | ---- |
 | Python really has a GIL | [Java code](https://github.com/guerbai/it-does-works/blob/master/src/com/guerbai/concurrency/ParallelProcessExample.java) \| [Python code](https://github.com/guerbai/it-does-works/blob/master/src/com/guerbai/concurrency/parallel_process_example.py) |
+| Java `volatile` does determine var visibility bewteen threads | [Java code](https://github.com/guerbai/it-does-works/blob/master/src/com/guerbai/concurrency/Visibility.java) |
